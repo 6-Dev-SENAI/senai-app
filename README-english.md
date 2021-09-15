@@ -2,17 +2,17 @@
 
 ![banner](./src/assets/images/logo.png)
 
-# ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Suíço Brasileira APP com React.Js | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Swiss-Brazilian APP with React.Js | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## &#128421; Concluído &#128640; 
+## &#128421; Done &#128640; 
 
 </center>
 
 ---
 
-## Sobre
+## About
 
-Projeto desenvolvido com intuito de demonstrar três cursos *FIC* disponibilizados pela **Escola SENAI Suíço Brasileira PAulo Ernesto Tolle** utilizando ReactJs com components.
+Project developed to show three *FIC* courses by **Swiss-Brazilian School SENAI Paulo Ernesto Tolle** using ReactJs and Components.
 
 ![Languages](https://img.shields.io/github/languages/count/6-Dev-SENAI/senai-app?color=%2304D361) ![Repo_Size](https://img.shields.io/github/repo-size/6-Dev-SENAI/senai-app) ![Last_Commit](https://img.shields.io/github/last-commit/6-Dev-SENAI/senai-app)
 
@@ -24,45 +24,44 @@ Projeto desenvolvido com intuito de demonstrar três cursos *FIC* disponibilizad
 
 ### Features | Components
 
-- [x] Cabeçalho (com logo e nome da escola)
-- [x] Home (página principal)
-- [x] Card (com Título, Imagem, Descrição, Duração e Preço)
-- [x] Rodapé (Six-Dev &copy; 2021)
+- [x] Header
+- [x] Home
+- [x] Card (Title, Image, Description, Hours and Price)
+- [x] Footer (Six-Dev &copy; 2021)
 
 ---
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com/downloads), [NodeJs](https://nodejs.org/en/download/), [NPX](https://www.npmjs.com/package/npx) e o como opcional o [Yarn](https://classic.yarnpkg.com/en/docs/install/). É recomendado que se tenha um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/Download)!
+Before start, you need to have installed the following tools: [Git](https://git-scm.com/downloads), [NodeJs](https://nodejs.org/en/download/), [NPX](https://www.npmjs.com/package/npx) and, an optional tool, [Yarn](https://classic.yarnpkg.com/en/docs/install/). It's recomended to have a code editor like [VSCode](https://code.visualstudio.com/Download) if you want to edit any code!
 
 
 #### Rodando o projeto
 
 ```bash
-# Clone este repositório
+# Clone this repo
 $ git clone https://github.com/6-Dev-SENAI/senai-app.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project dir on terminal/cmd
 $ cd senai-app
 
-# Caso queira editar algum código, abra o VsCode com
+# If you want to edit the code, open VSCode with
 $ code .
 
-# Instale as dependências do projeto, para puxar os pacotes necessário novamente
+# Install project's dependencies to restore the need-packages
 $ npm i
 
-# E então, no terminal ainda, inicie o server
+# Then start server in terminal
 $ npm start 
-# ou
+# or
 $ yarn start
 
-# O servidor inciará na porta : 3000 - acesse <http://localhost:3000>
+# Server will start on port : 3000 - access <http://localhost:3000>
 ```
 
 ---
 
-### Recursos
+### Resources
 
 | Tecnologia | [![Generic badge](https://img.shields.io/badge/Badges--lime.svg)](####recursos) |
 |---|---|
@@ -74,7 +73,7 @@ $ yarn start
 
 ---
 
-### Autores
+### Authors
 
 <table>
     <tbody>
@@ -141,4 +140,4 @@ $ yarn start
     </tbody>
 </table>
 
-## [README in English 🇺🇸](./README-english.md)
+## [README em Português 🇧🇷](./README.md)
