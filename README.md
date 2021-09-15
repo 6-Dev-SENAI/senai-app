@@ -142,3 +142,11 @@ $ yarn start
 </table>
 
 ## [README in English 🇺🇸](./README-english.md)
+
+---
+
+## Prints
+
+[Wireframe](./src/assets/images/wireframe.png)
+
+[Kanban Board](./src/assets/images/kanban.png)
